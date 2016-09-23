@@ -1,0 +1,8 @@
+<!--Sysmon config for Evry-->
+<Sysmon schemaversion="1.0">
+ <Configuration>
+  <Hashing>MD5</Hashing>
+ </Configuration>
+ <Rules>
+ </Rules>
+</Sysmon>
